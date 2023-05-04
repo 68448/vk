@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  grid-gap: 30px;
+  max-width: 300px;
+  margin: auto;
+}
+p {
+  margin: 0;
+}
